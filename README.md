@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there, I'm Brendan 👋
+- I’m currently studying Chemical Engineering at the University of Waterloo
+- I have experience with Python and am looking forward to adding more projects!
 <!--
 **brendan-ng2/brendan-ng2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
